@@ -1,0 +1,12 @@
+# Local Python environments and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+repomix-output.xml
+
+# Experiment outputs and local tooling
+batch_invariance_results.json
+.DS_Store
